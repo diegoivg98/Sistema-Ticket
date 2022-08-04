@@ -74,11 +74,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=ticket',
+	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=yourdbname',
 	'hostname' => 'localhost',
-	'username' => 'postgres',
-	'password' => 'fuciante98',
-	'database' => 'ticket',
+	'username' => 'your-username',
+	'password' => 'your-password',
+	'database' => 'your-database',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
