@@ -8,3 +8,5 @@ Para las vistas se utilizó AdminLTE 3 y Bootstrap 4.
 Paginación con jQuery utilizando dataTables.
 
 Validaciones de rut con JavaScript.
+
+Menú desplegable dependiente dinámico con Ajax.
