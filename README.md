@@ -9,4 +9,4 @@ Paginación con jQuery utilizando dataTables.
 
 Validaciones de rut con JavaScript.
 
-Menú desplegable dependiente dinámico con Ajax.
+Selects anidados con Ajax.
