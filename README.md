@@ -17,3 +17,7 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/dashboard.png" width="650" title="dashboard">
 </p>
+
+<p align="center">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/form.png" width="650" title="form">
+</p>
