@@ -11,5 +11,9 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - Selects anidados con Ajax.
 
 <p align="center">
-  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="hover text">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
+</p>
+
+<p align="center">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/dashboard.png" width="650" title="dashboard">
 </p>
