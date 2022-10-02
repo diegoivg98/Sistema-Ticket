@@ -2,13 +2,17 @@
 
 Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.13 debido al tema de la libreria de sesiones
 
-- Para las vistas se utilizó AdminLTE 3 y Bootstrap 4 -> https://adminlte.io/themes/v3/
-
-- Paginación con jQuery utilizando DataTables -> https://datatables.net.
-
-- Validaciones de rut con JavaScript.
-
-- Selects anidados con Ajax.
+## Tecnologías utilizadas
+- PHP
+- Codeigniter 3 (Versión 3.1.13)
+- MVC (Model-View-Controller)
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 4
+- jQuery
+- Ajax
 
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
