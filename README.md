@@ -11,8 +11,8 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - CSS
 - JavaScript
 - Bootstrap 4
-- jQuery
-- Ajax
+- jQuery (DataTables)
+- Ajax (Dynamic Dependent Select Box)
 
 ## Resultados
 <p align="center">
