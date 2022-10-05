@@ -14,6 +14,14 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - jQuery (DataTables)
 - Ajax (Dynamic Dependent Select Box)
 
+## Descripción
+
+Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuario)
+-**Funcionario**: Acceso a realizar tickets y visualizar los distintos tipos de estados.
+-**Administrador**: Recibir tickets por parte de Funcionario, dar solucion/rechazar tickets, derivar a Técnico.
+-**Tecnico**: Recibir ticket de Funcionario/Administrador, los derivador por parte de Administrador, dar solución o rechazo a los tickets.
+-**Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
+
 ## Resultados
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
