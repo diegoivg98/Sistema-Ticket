@@ -1,8 +1,8 @@
-# Sistema-Ticket // Proyecto Practica Laboral
+# Sistema-Ticket // Proyecto Practica Laboral.
 
-Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.13 debido al tema de la libreria de sesiones
+Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.13 debido al tema de la libreria de sesiones.
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas:
 - PHP
 - Codeigniter 3 (Versión 3.1.13)
 - MVC (Model-View-Controller)
@@ -16,7 +16,7 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - XAMPP
 - AdminLTE 3 | Dashboard
 
-## Descripción
+## Descripción:
 
 Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuario)
 - **Funcionario**: Acceso a realizar tickets y visualizar los distintos tipos de estados.
@@ -24,7 +24,7 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 - **Tecnico**: Recibir ticket de Funcionario/Administrador, los derivador por parte de Administrador, dar solución o rechazo a los tickets.
 - **Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
 
-## Resultados
+## Resultados:
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
 </p>
