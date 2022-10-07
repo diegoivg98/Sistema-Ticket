@@ -12,7 +12,7 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - JavaScript
 - Bootstrap 4
 - jQuery (DataTables)
-- Ajax (Dynamic Dependent Select Box)
+- Ajax (https://www.youtube.com/watch?v=bxA6M9LYrPk)
 - XAMPP
 - AdminLTE 3 | Dashboard
 
