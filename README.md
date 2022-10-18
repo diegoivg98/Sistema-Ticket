@@ -24,12 +24,12 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 - **Tecnico**: Recibir ticket de Funcionario/Administrador, los derivador por parte de Administrador, dar solución o rechazo a los tickets.
 - **Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
 - Contraseñas encriptadas con **SHA256**.
-- Script para validar RUT
+- Script para validar RUT (sin puntos pero con identificador unico)
 
 ## Instalacion
 - ``git clone https://github.com/diegoivg98/Sistema-Ticket`` -> ``cd Sistema-Ticket``
 - Configurar application/config/database.php
-- Tener instalado XAMPP y ejecutar Start del Apache
+- Tener instalado XAMPP y ejecutar modulo Apache
 
 ## Resultados:
 <p align="center">
