@@ -26,6 +26,11 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 - Contraseñas encriptadas con **SHA256**.
 - Script para validar RUT
 
+## Instalacion
+- ``git clone https://github.com/diegoivg98/Sistema-Ticket`` -> ``cd Sistema-Ticket``
+- Configurar application/config/database.php
+- Tener instalado XAMPP y ejecutar Start del Apache
+
 ## Resultados:
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
