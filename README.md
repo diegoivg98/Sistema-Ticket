@@ -4,15 +4,14 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 
 ## Tecnologías utilizadas:
 - PHP
-- Codeigniter 3 (Versión 3.1.13)
+- Codeigniter 3 (3.1.13)
 - MVC (Model-View-Controller)
 - PostgreSQL
 - HTML
 - CSS
 - JavaScript
 - Bootstrap 4
-- jQuery (DataTables)
-- Ajax (https://www.youtube.com/watch?v=bxA6M9LYrPk)
+- jQuery (DataTables,ajax -> https://www.youtube.com/watch?v=bxA6M9LYrPk)
 - XAMPP
 - AdminLTE 3 | Dashboard
 
@@ -24,12 +23,7 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 - **Tecnico**: Recibir ticket de Funcionario/Administrador, los derivados por parte de Administrador, dar solución o rechazo a los tickets.
 - **Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
 - Contraseñas encriptadas con **SHA256**.
-- Script para validar RUT (sin puntos pero con identificador unico)
-
-## Instalacion
-- ``git clone https://github.com/diegoivg98/Sistema-Ticket`` -> ``cd Sistema-Ticket``
-- Configurar application/config/database.php
-- Tener instalado XAMPP y ejecutar modulo Apache
+- Script para validar RUT (sin puntos pero con digito identificador unico)
 
 ## Resultados:
 <p align="center">
