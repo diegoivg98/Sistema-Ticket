@@ -5,13 +5,13 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 ## Tecnologías utilizadas:
 - PHP
 - Codeigniter 3 (3.1.13)
-- MVC (Model-View-Controller)
+- MVC (Modelo-Vista-Controlador)
 - PostgreSQL
 - HTML
 - CSS
 - JavaScript
 - Bootstrap 4
-- jQuery (ajax) -> https://www.youtube.com/watch?v=bxA6M9LYrPk
+- jQuery (ajax) -> Select Dinamico (https://www.youtube.com/watch?v=bxA6M9LYrPk)
 - DataTables
 - XAMPP
 - AdminLTE 3 | Dashboard
