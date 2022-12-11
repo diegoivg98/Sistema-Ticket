@@ -16,6 +16,12 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - XAMPP
 - AdminLTE 3 | Dashboard
 
+## Instalación
+- ```git clone https://github.com/diegoivg98/Sistema-Ticket.git```
+- Crear BD en pgAdmin e importar el archivo bdticket.sql
+- Configurar archivo database.php 
+- Ejecutar modulo Apache del XAMPP 
+
 ## Descripción:
 
 Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuario)
