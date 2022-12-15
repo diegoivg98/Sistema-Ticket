@@ -34,16 +34,16 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
  
 # Login
 <p align="center">
-  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
-  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/loginerror.png" width="300" title="dashboard">
-</p>
-
-# Categorias
-<p align="center">
-  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/dashboard.png" width="650" title="dashboard">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/loginerror.png" width="300">
 </p>
 
 # Creación de usuario y su rol
 <p align="center">
-  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/form.png" width="650" title="form">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/form.png" width="750">
+</p>
+
+# Creación del ticket
+<p align="center">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/formticket.png" width="800">
 </p>
