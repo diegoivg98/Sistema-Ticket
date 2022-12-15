@@ -31,16 +31,18 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 - **Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
 - Contraseñas encriptadas con **SHA256**.
 - Script para validar RUT (sin puntos pero con digito identificador unico)
-
-## Resultados:
+ 
+# Login
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
 </p>
 
+# Categorias
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/dashboard.png" width="650" title="dashboard">
 </p>
 
+# Creación de usuario y su rol
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/form.png" width="650" title="form">
 </p>
