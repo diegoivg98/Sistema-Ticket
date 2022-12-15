@@ -35,6 +35,7 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 # Login
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/login.png" width="350" title="login">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/loginerror.png" width="300" title="dashboard">
 </p>
 
 # Categorias
