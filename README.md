@@ -47,3 +47,9 @@ Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuari
 <p align="center">
   <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/formticket.png" width="800">
 </p>
+
+# Estado del ticket (Solucion/Cancelar)
+<p align="center">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/solucion.png" width="800">
+  <img src="https://github.com/diegoivg98/Sistema-Ticket/blob/main/res/solucion2.png" width="800">
+</p>
