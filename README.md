@@ -25,9 +25,9 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 ## Descripción:
 
 Cuenta con 4 tipos de usuario(Funcionario, Administrador, Técnico y Superusuario)
-- **Funcionario**: Acceso a realizar tickets y visualizar los distintos tipos de estados.
-- **Administrador**: Recibir tickets por parte de Funcionario, dar solucion/rechazar/derivar tickets al Técnico.
-- **Tecnico**: Recibir ticket de Funcionario/Administrador, los derivados por parte de Administrador, dar solución o rechazo a los tickets.
+- **Funcionario**: Creacion de tickets y visualizar los distintos tipos de estados (Solucionado/Cancelado/Derivado).
+- **Administrador**: Recibir tickets por parte de Funcionario, dar solucion/cancelar/derivar tickets al Técnico y creacion de tickets.
+- **Tecnico**: Solo Recibe tickets de Funcionario/Administrador, los derivados por parte de Administrador y dar solución o cancelar los tickets.
 - **Superusuario**: Acceso a todas las vistas, creacion y edición de los mantenedores (Usuario, Perfil, Establecimiento, Categoría, Subcategoría, etc....). 
 - Contraseñas encriptadas con **SHA256**.
 - Script para validar RUT (sin puntos pero con digito identificador unico)
