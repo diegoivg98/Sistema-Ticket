@@ -14,7 +14,7 @@ Hecho anteriormente con Codeigniter 3.1.11, pero ahora se utilizó version 3.1.1
 - jQuery (ajax) -> Select Dinamico (https://www.youtube.com/watch?v=bxA6M9LYrPk)
 - DataTables
 - XAMPP
-- AdminLTE 3 | Dashboard
+- AdminLTE 3 | Dashboard -> https://adminlte.io/themes/v3/
 
 ## Instalación
 - ```git clone https://github.com/diegoivg98/Sistema-Ticket.git```
